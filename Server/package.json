@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "This is my First Node Projecy",
+  "description": "This is my First Node Project",
   "main": "index.js",
   "type":"module",
   "scripts": {
